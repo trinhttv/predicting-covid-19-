@@ -24,6 +24,6 @@ The dataset is provided to support the research community in developing and eval
 We warmly welcome any contributions, feedback, and questions related to the dataset. This is the best way to obtain more detailed information or clarification regarding the use and understanding of this Covid-19 Chest X-Ray dataset. For additional information about the dataset, please contact the author using the following details:
 - Email: thienntb@uit.edu.vn or trinhttv.14@grad.iut.edu.vn
   
-#If this infomation is helpful with you, please cite us with these details:
+# If this infomation is helpful with you, please cite us with these details:
 
 Nguyen-Tat, T. B., Tran-Thi, V.-T., & Ngo, V. M. (2024). Predicting the Severity of COVID-19 Pneumonia from Chest X-Ray Images: A Convolutional Neural Network Approach. EAI Endorsed Transactions on Industrial Networks and Intelligent Systems, 12(1). https://doi.org/10.4108/eetinis.v12i1.6240
