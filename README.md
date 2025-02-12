@@ -1,5 +1,5 @@
 # Predicting COVID-19 pneumonia severity from Chest X-Ray images using Convolutional Neural Networks
-Here is our implementation of approach built for the paper named: Predicting COVID-19 pneumonia severity from Chest X-Ray images using Convolutional Neural Networks
+Here is our implementation of approach built for the paper named: Predicting the Severity of COVID-19 Pneumonia from Chest X-Ray Images: A Convolutional Neural Network Approach
 # Introduction
 The Covid-19 Chest X-ray dataset we offer includes a total of 9,294 X-ray images taken from patients infected with Covid-19, stored in JPG format. It is divided into four main classes, namely PCR+ NORMAL, MILD, MODERATE, and SEVERE, with each class containing 2,327 images
 # Dataset Overview:
